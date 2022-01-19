@@ -1,0 +1,51 @@
+[{
+"SarkiAdi": "We Will Rock You",
+"Album": "News of the World",
+"Yil": "1977",
+"ResimURL": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/We_Will_Rock_You_by_Queen_%281977_French_single%29.png/220px-We_Will_Rock_You_by_Queen_%281977_French_single%29.png"
+},
+ {
+ "SarkiAdi": "Bohemian Rhapsody",
+ "Album": "A Night at the Opera",
+ "Yil": "1975",
+ "ResimURL": "https://upload.wikimedia.org/wikipedia/tr/d/dc/Queen_song_cover.png"
+ 
+},
+ {
+ "SarkiAdi": "Another One Bites The Dust",
+ "Album": "The Game",
+ "Yil": "1980",
+ "ResimURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Another_one_bites_the_dust.jpg/220px-Another_one_bites_the_dust.jpg"
+},
+ {
+ "SarkiAdi": "The Show Must Go On",
+ "Album": "Innuendo",
+ "Yil":"1991",
+ "ResimURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Queen_The_Show_Must_Go_On.png/220px-Queen_The_Show_Must_Go_On.png"
+},
+ {
+ "SarkiAdi": "We Are the Champions",
+ "Album": "News of the World",
+ "Yil": "1977",
+ "ResimURL": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/You_Are_the_Champions_%28single%29.jpg/220px-You_Are_the_Champions_%28single%29.jpg"
+},
+ {
+ "SarkiAdi": "Don't Stop Me Now",
+ "Album": "Jazz",
+ "Yil": "1978",
+ "ResimURL": "https://upload.wikimedia.org/wikipedia/en/9/97/Queen-dont-stop-me-now-1979-6-s.jpg"
+ 
+},
+ {
+ "SarkiAdi": "Killer Queen",
+ "Album": "Sheer Heart Attack",
+ "Yil": "1974",
+ "ResimURL": "https://upload.wikimedia.org/wikipedia/tr/a/af/Killer3cdfront.JPG"
+},
+ {
+ "SarkiAdi": "Under Pressure",
+ "Album": "Hot Space",
+ "Yil":"1981",
+ "ResimURL": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Under_Pressure_cover_%28The_Used_and_MCR%29.jpg/220px-Under_Pressure_cover_%28The_Used_and_MCR%29.jpg"
+}
+]
